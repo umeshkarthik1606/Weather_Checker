@@ -29,7 +29,7 @@ https://69a16f8ed962120126e45e61--weatherchecker1.netlify.app/
 - Clone the repository:
 
 ```bash
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
+https://github.com/umeshkarthik1606/Weather_Checker.git
 
 ```
 
