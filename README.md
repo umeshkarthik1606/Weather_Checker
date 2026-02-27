@@ -1,4 +1,4 @@
-![Application screenshot](./public/screenshot.png)
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/d27a29f1-90ec-4a4c-bcf4-8c6a520ac5d2" />![Application screenshot](./public/screenshot.png)
 
 <br/>
 <br/>
@@ -11,7 +11,7 @@ The app is developed using React.js and material-UI.
 
 ## 💻 Live Demo:
 
-https://the-weather-forecasting.netlify.app
+https://69a16f8ed962120126e45e61--weatherchecker1.netlify.app/
 
 <br/>
 
