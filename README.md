@@ -1,4 +1,4 @@
-<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/d27a29f1-90ec-4a4c-bcf4-8c6a520ac5d2" />![Application screenshot](./public/screenshot.png)
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/d27a29f1-90ec-4a4c-bcf4-8c6a520ac5d2" />(./public/screenshot.png)
 
 <br/>
 <br/>
