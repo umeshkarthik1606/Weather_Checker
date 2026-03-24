@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-With [The Weather Forecasting](https://69a16f8ed962120126e45e61--weatherchecker1.netlify.app/) user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
+With [The Weather Forecasting](https://weather-checker-16.netlify.app/) user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
 <br />
 The app is developed using React.js and material-UI.
 
@@ -11,7 +11,7 @@ The app is developed using React.js and material-UI.
 
 ## 💻 Live Demo:
 
-https://69a16f8ed962120126e45e61--weatherchecker1.netlify.app/
+https://weather-checker-16.netlify.app/
 
 <br/>
 
